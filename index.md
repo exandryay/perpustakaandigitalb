@@ -12,6 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Alice Advantures in Wonderland](ebook/alice_advantures_in_woderland.pdf) - Lewis Caroll (1865)
 9. [Anne of Green Gables](ebook/anne_of_green_gables.pdf) - Lucy Maud Montgomery (1908)
 10. [The Great Gatsby](ebook/the_great_gatsby.pdf) - F. Scott Fitzgerald (1925)
-11. [Transforming Libraries Through Information Technology](ebook/transforming_libraries_through_information_technology.pdf) - 085_Exandria Dyah Ayu Kencana (2026)
+11. [Transforming Libraries Through Information Technology](ebook/transforming_libraries_through_information_technology.pdf) - Exandria Dyah Ayu Kencana (2026)
 ---
 Powered by Github Pages
