@@ -2,7 +2,16 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [aplikasi-teknolgi-informasi](ebook/aplikasi-teknologi-informasi.pdf) - Ramen A. Purba, dkk (2020)
-2. Contoh buku lain
+1. [Aplikasi Teknologi Informasi](ebook/aplikasi-teknologi-informasi.pdf) - Ramen A. Purba, dkk (2020)
+2. [Collection Development and Management](ebook/Collection_Development_and_Management.pdf) - Kathleen A. Lehman (2013)
+3. [Nona Teh dan Tuan Kopi](ebook/Nona_Teh_dan_Tuan_Kopi.pdf) - Crowdstroia (2017)
+4. [Tata Kelola Teknologi Informasi](ebook/Tata_Kelola_Teknologi_Informasi.pdf) - Richardus Eko Indrajit (2016)
+5. [Educating for Professional Identity Development](ebook/Professional_Identity_Development.pdf) - Chin Pei, Tan (2014)
+6. [Pride and Prejudice](ebook/pride_and_prejudice.pdf) - Jane Austen (1813)
+7. [The Potrait of A Lady](ebook/the_potrait_of_a_lady.pdf) - Henry James (1881)
+8. [Alice Advantures in Wonderland](ebook/alice_advantures_in_woderland.pdf) - Lewis Caroll (1865)
+9. [Anne of Green Gables](ebook/anne_of_green_gables.pdf) - Lucy Maud Montgomery (1908)
+10. [The Great Gatsby](ebook/the_great_gatsby.pdf) - F. Scott Fitzgerald (1925)
+11. [Transforming Libraries Through Information Technology](ebook/transforming_libraries_through_information_technology.pdf) - 085_Exandria Dyah Ayu Kencana (2026)
 ---
 Powered by Github Pages
