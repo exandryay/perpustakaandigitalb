@@ -11,9 +11,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [The Potrait of A Lady](ebook/the-potrait-of-a-lady.pdf) - Henry James (1881)
 8. [Alice Advantures in Wonderland](ebook/alice-advantures-in-woderland.pdf) - Lewis Caroll (1865)
 9. [Anne of Green Gables](ebook/anne-of-green-gables.pdf) - Lucy Maud Montgomery (1908)
-10. [The Great Gatsby](ebook/the-greatgatsby.pdf) - F. Scott Fitzgerald (1925)
-11. 
-12. [Transforming Libraries Through Information Technology](ebook/transforming_libraries_through_information_technology.pdf) - Exandria Dyah (2026)
+10. [The Great Gatsby](ebook/the-great-gatsby.pdf) - F. Scott Fitzgerald (1925)
+11. [Transforming Libraries Through Information Technology](ebook/transforming_libraries_through_information_technology.pdf) - Exandria Dyah (2026)
     
 ---
 Powered by Github Pages
