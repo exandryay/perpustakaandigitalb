@@ -8,7 +8,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Tata Kelola Teknologi Informasi](ebook/Tata_Kelola_Teknologi_Informasi.pdf) - Richardus Eko Indrajit (2016)
 5. [Educating for Professional Identity Development](ebook/Professional_Identity_Development.pdf) - Chin Pei, Tan (2014)
 6. [Pride and Prejudice](ebook/pride-and-prejudice.pdf) - Jane Austen (1813)
-7. [The Potrait of A Lady](ebook/the-potrait-of-a-lady.pdf) - Henry James (1881)
+7. [The Potrait of A Lady](ebook/the-portrait-of-a-lady.pdf) - Henry James (1881)
 8. [Alice Advantures in Wonderland](ebook/alice-advantures-in-woderland.pdf) - Lewis Caroll (1865)
 9. [Anne of Green Gables](ebook/anne-of-green-gables.pdf) - Lucy Maud Montgomery (1908)
 10. [The Great Gatsby](ebook/the-great-gatsby.pdf) - F. Scott Fitzgerald (1925)
