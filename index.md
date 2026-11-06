@@ -7,11 +7,11 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Nona Teh dan Tuan Kopi](ebook/Nona_Teh_dan_Tuan_Kopi.pdf) - Crowdstroia (2017)
 4. [Tata Kelola Teknologi Informasi](ebook/Tata_Kelola_Teknologi_Informasi.pdf) - Richardus Eko Indrajit (2016)
 5. [Educating for Professional Identity Development](ebook/Professional_Identity_Development.pdf) - Chin Pei, Tan (2014)
-6. [Pride and Prejudice](ebook/pride_and_prejudice.pdf) - Jane Austen (1813)
-7. [The Potrait of A Lady](ebook/the_potrait_of_a_lady.pdf) - Henry James (1881)
-8. [Alice Advantures in Wonderland](ebook/alice_advantures_in_woderland.pdf) - Lewis Caroll (1865)
-9. [Anne of Green Gables](ebook/anne_of_green_gables.pdf) - Lucy Maud Montgomery (1908)
-10. [The Great Gatsby](ebook/the_great_gatsby.pdf) - F. Scott Fitzgerald (1925)
-11. [Transforming Libraries Through Information Technology](ebook/transforming_libraries_through_information_technology.pdf) - Exandria Dyah Ayu Kencana (2026)
+6. [Pride and Prejudice](ebook/pride-and-prejudice.pdf) - Jane Austen (1813)
+7. [The Potrait of A Lady](ebook/the-potrait-of-a-lady.pdf) - Henry James (1881)
+8. [Alice Advantures in Wonderland](ebook/alice-advantures-in-woderland.pdf) - Lewis Caroll (1865)
+9. [Anne of Green Gables](ebook/anne-of-green-gables.pdf) - Lucy Maud Montgomery (1908)
+10. [The Great Gatsby](ebook/the-greatgatsby.pdf) - F. Scott Fitzgerald (1925)
+11. [Transforming Libraries Through Information Technology](ebook/transforming_libraries_through_information_technology.pdf) - Exandria Dyah (2026)
 ---
 Powered by Github Pages
