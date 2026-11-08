@@ -4,7 +4,6 @@
 **NIM:** 13040124130085
 
 Selamat Datang di Perpustakaan Digital
-
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Aplikasi Teknologi Informasi](ebook/aplikasi-teknologi-informasi.pdf) - Ramen A. Purba, dkk (2020)
